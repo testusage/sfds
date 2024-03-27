@@ -1,0 +1,13 @@
+Month,Temperature,Rainfall,Season
+Jan,20,10,Winter
+Feb,22,8,Winter
+Mar,25,15,Spring
+Apr,28,20,Spring
+May,30,25,Spring
+Jun,32,30,Summer
+Jul,32,35,Summer
+Aug,30,30,Summer
+Sep,28,25,Autumn
+Oct,25,20,Autumn
+Nov,22,15,Autumn
+Dec,20,10,Winter
